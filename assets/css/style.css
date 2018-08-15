@@ -50,6 +50,9 @@ body {
     font-size: 22px;
   }
   
+
+
+
   /* header */
   
   #masthead {
@@ -65,7 +68,7 @@ body {
   
   #logo {
     float: left;
-    width: 250px;
+    width: 100%;
     height: 90px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
@@ -117,6 +120,11 @@ body {
     border-bottom: 2px solid #eee;
   }
   
+
+
+
+
+
   /* main */
   
   #main-container {
@@ -128,11 +136,13 @@ body {
     float: left;
     width: 100%;
     max-width: 960px;
-    padding: 30px;
+    padding: 60px 0px 0px 0px;
     margin: 0 0 40px;
     background: #fff;
     border: 1px solid #ddd;
   }
+
+
   
   /* portfolio page */
   
